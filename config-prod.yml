@@ -1,1 +1,2 @@
-
+configure:
+  info: hello, config-prod.yml
